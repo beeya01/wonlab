@@ -1,0 +1,8 @@
+selected_candidate_vars
+T2D
+bmi
+drink
+HDL
+cholesterol
+triglyceride
+BMI_PRS7
